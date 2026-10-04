@@ -335,7 +335,7 @@ If you encounter any issues or have questions:
 
 **🔗 Connect with us**: [GitHub](https://github.com/Sridhar-0306) | [LinkedIn](https://www.linkedin.com/in/usridhar/)
 
-**📧 Contact**: navanishmehta@gmail.com
+**📧 Contact**: sridhar.u2007@gmail.com
 
 ---
 
