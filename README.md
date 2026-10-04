@@ -333,10 +333,10 @@ If you encounter any issues or have questions:
 
 **⭐ Star this repository if you find it helpful!**
 
-**🔗 Connect with us**: [GitHub](https://github.com/Navanish-Mehta) | [LinkedIn](https://linkedin.com/in/navanish-mehta)
+**🔗 Connect with us**: [GitHub](https://github.com/Sridhar-0306) | [LinkedIn](https://www.linkedin.com/in/usridhar/)
 
 **📧 Contact**: navanishmehta@gmail.com
 
 ---
 
-*Made with ❤️ for educational institutions worldwide By Navanish Mehta💕*
+*Made with ❤️  By Sridhar💕*
